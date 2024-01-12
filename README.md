@@ -71,9 +71,8 @@ To set up the development environment and run the project locally, follow these 
 
 ### Video
 
-[![Prototype Video](
-https://github.com/MohammadThabetHassan/ASSISTIVE_HOLOGRAM_PROJECTING_GLASSES/assets/141744086/dce04296-5f0f-4567-8956-886dab60cbe3
-)
+https://github.com/MohammadThabetHassan/ASSISTIVE_HOLOGRAM_PROJECTING_GLASSES/assets/141744086/64829c5b-e370-431d-bae6-886cfa2e7813
+
 
 ## Future Technological Integrations
 
