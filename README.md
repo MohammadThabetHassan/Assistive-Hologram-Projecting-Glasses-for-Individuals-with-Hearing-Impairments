@@ -90,7 +90,7 @@ The Assistive Hologram Projecting Glasses leverage state-of-the-art technologies
 ## Author
 
 - **Mohammad Thabet**
-- **Abdulrhaman Rezki**
+- **@AbdulrahmanRezki**
   
 
 
